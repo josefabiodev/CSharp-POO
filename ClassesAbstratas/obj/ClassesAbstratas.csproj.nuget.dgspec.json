@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp-POO\\Heranca\\Heranca.csproj": {}
+    "C:\\CSharp-POO\\ClassesAbstratas\\ClassesAbstratas.csproj": {}
   },
   "projects": {
-    "C:\\CSharp-POO\\Heranca\\Heranca.csproj": {
+    "C:\\CSharp-POO\\ClassesAbstratas\\ClassesAbstratas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp-POO\\Heranca\\Heranca.csproj",
-        "projectName": "Heranca",
-        "projectPath": "C:\\CSharp-POO\\Heranca\\Heranca.csproj",
+        "projectUniqueName": "C:\\CSharp-POO\\ClassesAbstratas\\ClassesAbstratas.csproj",
+        "projectName": "ClassesAbstratas",
+        "projectPath": "C:\\CSharp-POO\\ClassesAbstratas\\ClassesAbstratas.csproj",
         "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp-POO\\Heranca\\obj\\",
+        "outputPath": "C:\\CSharp-POO\\ClassesAbstratas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
